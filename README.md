@@ -6,6 +6,8 @@ INTERFAZ GRAFICA DE LA APP
 HABRIR LA CAMARA PARA ESCANERA EL CODIGO QR
 
 ![WhatsApp Image 2023-09-07 at 17 30 08](https://github.com/livescorpio/ScannerDoicela/assets/123920507/3d180ed2-df4b-4584-980d-71d677c0975b)
+![WhatsApp Image 2023-09-07 at 17 30 08](https://github.com/livescorpio/ScannerDoicela/assets/123920507/1924bb8e-3863-4e90-948a-39ce2525cd94)
+
 RESULTADO DEL ESCANEO
 
 ![WhatsApp Image 2023-09-07 at 17 24 34](https://github.com/livescorpio/ScannerDoicela/assets/123920507/f8e62904-2e10-4408-8b12-44094ca8e7cb)
